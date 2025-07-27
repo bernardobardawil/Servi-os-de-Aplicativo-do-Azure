@@ -1,4 +1,4 @@
-# Servi-os-de-Aplicativo-do-Azure
+# Azure Functions
 Azure Functions é um serviço serverless da Microsoft que permite executar código sob demanda em resposta a eventos, sem gerenciar infraestrutura. Ele oferece alta escalabilidade, integração com serviços do Azure e suporte a várias linguagens de programação. Ideal para automações e APIs.
 Arquitetura e Conceitos Fundamentais
 Na arquitetura do Azure Functions, o código é organizado em funções individuais, agrupadas dentro de um Function App. Cada função pode ser acionada por um gatilho (trigger), que define o evento que iniciará a execução da função. Os gatilhos podem ser de diversos tipos, como HTTP, temporizadores (agendamento de tarefas), eventos de filas, alterações em bancos de dados, mensagens em tópicos ou eventos de armazenamento.
